@@ -4447,10 +4447,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="386" y="203" width="594" height="393" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1580952085853" />
-    <state x="264" y="0" width="829" height="744" key="CommitChangelistDialog2" timestamp="1583960504883">
+    <state x="264" y="0" width="829" height="744" key="CommitChangelistDialog2" timestamp="1583960575643">
       <screen x="0" y="0" width="1366" height="744" />
     </state>
-    <state x="264" y="0" width="829" height="744" key="CommitChangelistDialog2/0.0.1366.744@0.0.1366.744" timestamp="1583960504883" />
+    <state x="264" y="0" width="829" height="744" key="CommitChangelistDialog2/0.0.1366.744@0.0.1366.744" timestamp="1583960575643" />
     <state x="462" y="128" width="426" height="484" key="FileChooserDialogImpl" timestamp="1583945544921">
       <screen x="0" y="0" width="1366" height="744" />
     </state>
@@ -4464,6 +4464,10 @@
       <screen x="0" y="0" width="1366" height="744" />
     </state>
     <state x="278" y="109" width="802" height="528" key="Vcs.Push.Dialog.v2/0.0.1366.744@0.0.1366.744" timestamp="1583960533831" />
+    <state x="487" y="58" width="375" height="628" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1583960562059">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="487" y="58" width="375" height="628" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.744@0.0.1366.744" timestamp="1583960562059" />
     <state x="451" y="293" width="456" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583960453299">
       <screen x="0" y="0" width="1366" height="744" />
     </state>
