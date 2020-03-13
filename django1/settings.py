@@ -24,7 +24,7 @@ SECRET_KEY = '9()u2x$41rf8p9ob#9@_%^+2=q&hs9op*seyyk0cuf_!@-qjit'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 #DEBUG true = desenvolvimento DEBUG false = produção
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.whiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
