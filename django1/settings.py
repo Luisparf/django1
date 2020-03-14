@@ -26,7 +26,7 @@ SECRET_KEY = '9()u2x$41rf8p9ob#9@_%^+2=q&hs9op*seyyk0cuf_!@-qjit'
 #DEBUG true = desenvolvimento DEBUG false = produção
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://django1-lp.herokuapp.com/']
 
 
 # Application definition
@@ -43,7 +43,6 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
