@@ -1,9 +1,22 @@
 body {
-    background-color: #341256;
+    background-color: #518561;
     color: #ffffff;
 }
 
 a {
     text-decoration: none;
     color: #ffffff;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 35%
+
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center
 }

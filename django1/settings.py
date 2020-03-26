@@ -24,9 +24,11 @@ SECRET_KEY = '9()u2x$41rf8p9ob#9@_%^+2=q&hs9op*seyyk0cuf_!@-qjit'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 #DEBUG true = desenvolvimento DEBUG false = produção
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['https://django1-lp.herokuapp.com/']
+#ALLOWED_HOSTS = ['https://django1-lp.herokuapp.com/']
+ALLOWED_HOSTS = ['*']
+
 
 
 # Application definition
